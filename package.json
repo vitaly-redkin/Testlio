@@ -11,8 +11,8 @@
     "koa": "^2.1.0",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.0.0",
-    "mysql": "^2.13.0",
-    "sequelize": "^3.30.4"
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
   },
   "author": "",
   "license": "ISC"
