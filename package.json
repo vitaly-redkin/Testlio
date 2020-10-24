@@ -8,6 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "jsonwebtoken": "^8.5.1",
     "koa": "^2.1.0",
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.0.0",
