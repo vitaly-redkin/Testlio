@@ -1,6 +1,6 @@
 {
-  "DATABASE": "trialday",
+  "DATABASE": "testlio_trialday",
   "USER": "root",
-  "PASSWORD": "testlio",
+  "PASSWORD": "modicomm",
   "HOST": "127.0.0.1"
 }
