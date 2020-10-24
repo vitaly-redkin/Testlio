@@ -19,7 +19,7 @@ app.use(router.allowedMethods());
 // Syncing ORM models structure with the database
 const sequelize = require('./lib/models/connection');
 console.log("Syncing models...");
-sequelize.sync({ alter: true }).done();
+sequelize.sync().done();
 console.log("All models were synchronized successfully.");
 
 app.listen(PORT);
